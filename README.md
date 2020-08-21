@@ -12,8 +12,8 @@ Metasploit Helper, can helping you for :
 ```
 $ pkg update && pkg upgrade
 $ pkg install git
-$ git clone https://github.com/PengangguranMuda/MSF-HELPER
-$ cd MSF-HELPER
+$ git clone https://github.com/MrZ21/MSF-HELPER-master
+$ cd MSF-HELPER-master
 $ chmod +x *
 $ sh install.sh
 $ ./setup.sh
